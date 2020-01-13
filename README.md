@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+[bg](./bg.gif)
 ## Build Setup
 
 ``` bash
